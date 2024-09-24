@@ -2,7 +2,7 @@
 - 👀 I’m interested in music
 - 🌱 I’m currently learning advanced java
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me: text
+- 📫 How to reach me: email/phone
 - ⚡ Fun fact: i want to go skydiving
 
 <!---
