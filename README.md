@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msj18
 - 👀 I’m interested in music
-- 🌱 I’m currently learning data structures & algorithms 
+- 🌱 I’m currently learning assembly language
 - 💞️ I’m looking to collaborate on coding projects
 - 📫 How to reach me: email/phone
 - ⚡ Fun fact: I want to go skydiving
